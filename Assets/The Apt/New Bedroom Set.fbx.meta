@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: c818cf67398b1b342bfe33881940b3de
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bed
+    100002: Bed_Spread
+    100004: Bedside_Lamp
+    100006: Bedside_Lamp_001
+    100008: Blinds_001
+    100010: Bonus_Candys_001
+    100012: Bonus_Candys_JR_Mints
+    100014: Mattress
+    100016: //RootNode
+    100018: Night_Stand
+    100020: Night_Stand_001
+    100022: Night_Stand_002
+    100024: Puffy_Shirt
+    100026: Super_Basic_Phone
+    400000: Bed
+    400002: Bed_Spread
+    400004: Bedside_Lamp
+    400006: Bedside_Lamp_001
+    400008: Blinds_001
+    400010: Bonus_Candys_001
+    400012: Bonus_Candys_JR_Mints
+    400014: Mattress
+    400016: //RootNode
+    400018: Night_Stand
+    400020: Night_Stand_001
+    400022: Night_Stand_002
+    400024: Puffy_Shirt
+    400026: Super_Basic_Phone
+    2300000: Bed
+    2300002: Bed_Spread
+    2300004: Bedside_Lamp
+    2300006: Bedside_Lamp_001
+    2300008: Blinds_001
+    2300010: Bonus_Candys_001
+    2300012: Bonus_Candys_JR_Mints
+    2300014: Mattress
+    2300016: Night_Stand
+    2300018: Night_Stand_001
+    2300020: Night_Stand_002
+    2300022: Puffy_Shirt
+    2300024: Super_Basic_Phone
+    3300000: Bed
+    3300002: Bed_Spread
+    3300004: Bedside_Lamp
+    3300006: Bedside_Lamp_001
+    3300008: Blinds_001
+    3300010: Bonus_Candys_001
+    3300012: Bonus_Candys_JR_Mints
+    3300014: Mattress
+    3300016: Night_Stand
+    3300018: Night_Stand_001
+    3300020: Night_Stand_002
+    3300022: Puffy_Shirt
+    3300024: Super_Basic_Phone
+    4300000: Puffy_Shirt
+    4300002: Bonus_Candys_001
+    4300004: Night_Stand_002
+    4300006: Super_Basic_Phone
+    4300008: Bonus_Candys_JR_Mints
+    4300010: Bedside_Lamp
+    4300012: Bedside_Lamp_001
+    4300014: Night_Stand_001
+    4300016: Night_Stand
+    4300018: Bed_Spread
+    4300020: Blinds_001
+    4300022: Mattress
+    4300024: Bed
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .314999998
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

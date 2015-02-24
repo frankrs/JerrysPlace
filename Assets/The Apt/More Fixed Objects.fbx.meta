@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: afd387850963c904fb8c134435b89657
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Alarm_Clock_Better
+    100002: Bathroom_Sink_001
+    100004: Bathroom_Sink_002
+    100006: Circle_002
+    100008: Computer_Desk
+    100010: Computer_Monitor
+    100012: //RootNode
+    100014: Plane_009
+    100016: Plane_010
+    100018: Plane_016
+    100020: PowerMac
+    100022: Scrub_Brush
+    100024: Sink_Squirt
+    400000: Alarm_Clock_Better
+    400002: Bathroom_Sink_001
+    400004: Bathroom_Sink_002
+    400006: Circle_002
+    400008: Computer_Desk
+    400010: Computer_Monitor
+    400012: //RootNode
+    400014: Plane_009
+    400016: Plane_010
+    400018: Plane_016
+    400020: PowerMac
+    400022: Scrub_Brush
+    400024: Sink_Squirt
+    2300000: Alarm_Clock_Better
+    2300002: Bathroom_Sink_001
+    2300004: Bathroom_Sink_002
+    2300006: Circle_002
+    2300008: Computer_Desk
+    2300010: Computer_Monitor
+    2300012: Plane_009
+    2300014: Plane_010
+    2300016: Plane_016
+    2300018: PowerMac
+    2300020: Scrub_Brush
+    2300022: Sink_Squirt
+    3300000: Alarm_Clock_Better
+    3300002: Bathroom_Sink_001
+    3300004: Bathroom_Sink_002
+    3300006: Circle_002
+    3300008: Computer_Desk
+    3300010: Computer_Monitor
+    3300012: Plane_009
+    3300014: Plane_010
+    3300016: Plane_016
+    3300018: PowerMac
+    3300020: Scrub_Brush
+    3300022: Sink_Squirt
+    4300000: Scrub_Brush
+    4300002: Sink_Squirt
+    4300004: Bathroom_Sink_002
+    4300006: Bathroom_Sink_001
+    4300008: Alarm_Clock_Better
+    4300010: Circle_002
+    4300012: Plane_016
+    4300014: Computer_Monitor
+    4300016: PowerMac
+    4300018: Computer_Desk
+    4300020: Plane_009
+    4300022: Plane_010
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .314999998
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

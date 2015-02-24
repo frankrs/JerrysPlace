@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: 4b37ee74b14657a48af41aebe9e8c54f
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Alarm_Clock
+    100002: Bic_Pen
+    100004: Blinds_002
+    100006: Blinds_005
+    100008: Checks_and_Pen
+    100010: Circle_010
+    100012: Circle_013
+    100014: Desk_Lamp
+    100016: Drakes_Cakes
+    100018: Mug
+    100020: //RootNode
+    100022: Rizzi_Poster_001
+    100024: Rizzi_Poster_002
+    100026: Small_Garbadge_Bin
+    100028: Soup_Plate
+    100030: Super_Basic_Phone_001
+    100032: The_Bike
+    100034: Tweety_Pez
+    400000: Alarm_Clock
+    400002: Bic_Pen
+    400004: Blinds_002
+    400006: Blinds_005
+    400008: Checks_and_Pen
+    400010: Circle_010
+    400012: Circle_013
+    400014: Desk_Lamp
+    400016: Drakes_Cakes
+    400018: Mug
+    400020: //RootNode
+    400022: Rizzi_Poster_001
+    400024: Rizzi_Poster_002
+    400026: Small_Garbadge_Bin
+    400028: Soup_Plate
+    400030: Super_Basic_Phone_001
+    400032: The_Bike
+    400034: Tweety_Pez
+    2300000: Alarm_Clock
+    2300002: Bic_Pen
+    2300004: Blinds_002
+    2300006: Blinds_005
+    2300008: Checks_and_Pen
+    2300010: Circle_010
+    2300012: Circle_013
+    2300014: Desk_Lamp
+    2300016: Drakes_Cakes
+    2300018: Mug
+    2300020: Rizzi_Poster_001
+    2300022: Rizzi_Poster_002
+    2300024: Small_Garbadge_Bin
+    2300026: Soup_Plate
+    2300028: Super_Basic_Phone_001
+    2300030: The_Bike
+    2300032: Tweety_Pez
+    3300000: Alarm_Clock
+    3300002: Bic_Pen
+    3300004: Blinds_002
+    3300006: Blinds_005
+    3300008: Checks_and_Pen
+    3300010: Circle_010
+    3300012: Circle_013
+    3300014: Desk_Lamp
+    3300016: Drakes_Cakes
+    3300018: Mug
+    3300020: Rizzi_Poster_001
+    3300022: Rizzi_Poster_002
+    3300024: Small_Garbadge_Bin
+    3300026: Soup_Plate
+    3300028: Super_Basic_Phone_001
+    3300030: The_Bike
+    3300032: Tweety_Pez
+    4300000: Rizzi_Poster_002
+    4300002: Rizzi_Poster_001
+    4300004: Blinds_005
+    4300006: Desk_Lamp
+    4300008: Soup_Plate
+    4300010: Drakes_Cakes
+    4300012: Mug
+    4300014: Circle_013
+    4300016: Circle_010
+    4300018: The_Bike
+    4300020: Alarm_Clock
+    4300022: Checks_and_Pen
+    4300024: Bic_Pen
+    4300026: Super_Basic_Phone_001
+    4300028: Tweety_Pez
+    4300030: Blinds_002
+    4300032: Small_Garbadge_Bin
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .314999998
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
