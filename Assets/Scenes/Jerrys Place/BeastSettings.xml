@@ -105,7 +105,7 @@
     <fgCheckVisibilityDepth>1</fgCheckVisibilityDepth>
     <fgClampRadiance>false</fgClampRadiance>
     <fgContrastThreshold>0.05</fgContrastThreshold>
-    <fgDepth>2</fgDepth>
+    <fgDepth>1</fgDepth>
     <fgEstimatePoints>15</fgEstimatePoints>
     <fgExploitFrameCoherence>false</fgExploitFrameCoherence>
     <fgFalloffExponent>0</fgFalloffExponent>
@@ -128,7 +128,7 @@
       <b>0</b>
       <a>1</a>
     </ptDefaultColor>
-    <ptDepth>5</ptDepth>
+    <ptDepth>3</ptDepth>
     <ptDiffuseIllum>true</ptDiffuseIllum>
     <ptFile />
     <ptFilterSize>3</ptFilterSize>
