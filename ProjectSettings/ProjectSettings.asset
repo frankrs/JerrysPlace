@@ -71,7 +71,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleIdentifier: com.Viral3D.JerrysPlaceDrive
+  bundleIdentifier: com.Viral3D.JerrysPlaceCardboard
   bundleVersion: 1.0
   preloadedAssets: []
   metroEnableIndependentInputSource: 0
@@ -122,7 +122,7 @@ PlayerSettings:
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
   AndroidKeystoreName: C:/backups/Jason Baird Photoscans/Seinfeld/Key/ApartmentKey.keystore
-  AndroidKeyaliasName: 
+  AndroidKeyaliasName: jerrysplace
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
   androidEnableBanner: 1
